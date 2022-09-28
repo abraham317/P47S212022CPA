@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">P47S212022CPA</string>
+    <string name="Principal">Operaciones</string>
+    <string name="suma">suma</string>
+    <string name="resta">resta</string>
+    <string name="multiplicacion">multiplicacion</string>
+    <string name="division">division</string>
+    <string name="titulo">Operacion Suma</string>
+    <string name="titulo2">Operacion Resta</string>
+    <string name="titulo3">Operacion multiplicacion</string>
+    <string name="titulo4">Operacion division</string>
+    <string name="calcular">Sumar</string>
+    <string name="calcular1">Restar</string>
+    <string name="calcular2">Multiplicar</string>
+    <string name="calcular3">Dividir</string>
+    <string name="regresar">Regresar</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="place1">coloca el numero 1 aqui</string>
+    <string name="place2">coloca el numero 2 aqui</string>
+    <string name="lresultado">Resultado:</string>
+</resources>
